@@ -1,4 +1,4 @@
-# math189z
+# FINAL PROJECT LINK BELOW
 
 ## This is my repo for Mathematics of Big Data (Covid-19 edition)
 
