@@ -2,6 +2,5 @@
 
 ## This is my repo for Mathematics of Big Data (Covid-19 edition)
 
-The link to our final project proposal is https://docs.google.com/document/d/1d01UFPWWK8vYKL-adWI7HtW0Qt3adnbEHSplwShD1Fo/edit?usp=sharing
-
-*not much else to say here*
+The link to our final project repository is https://github.com/JoshCordova/math189Zfinal
+*no much else to say here*
